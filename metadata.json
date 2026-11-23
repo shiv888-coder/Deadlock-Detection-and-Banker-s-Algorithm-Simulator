@@ -1,0 +1,6 @@
+{
+  "name": "Deadlock Detection and Banker's Algorithm Simulator",
+  "description": "Interactive Operating System educational simulator for Banker's Safety Algorithm, Deadlock Detection, Resource Allocation, and Step-by-Step Execution Visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
